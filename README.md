@@ -190,8 +190,6 @@ app.add_page(index, title="DALL-E")
 
 You can create a multi-page app by adding more pages.
 
-## 📑 Resources
-
 <div align="center">
 
 </div>
